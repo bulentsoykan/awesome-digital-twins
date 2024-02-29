@@ -1,38 +1,44 @@
 <!--lint disable awesome-git-repo-age-->
 # Awesome Digital Twins 
 
-This is a curated repository of awesome Digital Twin resources.
+Welcome to our curated repository of awesome Digital Twin resources.
 
-Research and industry leverage digital twins to monitor and/or control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more.
-They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems.
-The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior.
+Digital twins, initially rooted in aerospace engineering, have evolved into a versatile concept applied across diverse domains. From enhancing weather forecasting accuracy, including predicting hurricanes and storms, to revolutionizing medicine with personalized cancer treatments, digital twins are reshaping industries. They find applications in automotive design, urban infrastructure development for smart cities, and climate modeling. Both research and industry harness the power of digital twins to monitor and control cyber-physical systems in sectors spanning automotive, avionics, biology, construction, manufacturing, medicine, and beyond. The promise of digital twins lies in their ability to significantly reduce costs, time, and enhance our comprehension of complex systems they represent. These digital replicas serve varied purposes such as analysis, control, and behavior prediction, employed at different stages relative to the represented system's lifecycle, whether in the exploration of design possibilities or optimizing real-time operations.
 
 ## Contents
 
 - [Awesome Digital Twins](#awesome-digital-twins)
   - [Contents](#contents)
-  - [Definitions](#definitions)
+  - [Definitions of Digital Twins](#definitions-of-digital-twins)
+  - [Reports](#reports)
   - [Software Solutions](#software-solutions)
   - [Videos](#videos)
   - [Books](#books)
   - [Lectures](#lectures)
   - [Initiatives](#initiatives)
   - [Research Events](#research-events)
-  - [Interesting Papers](#interesting-papers)
+  - [Research Labs](#research-labs)
+  - [Selected Papers](#selected-papers)
     - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
     - [2018](#2018)
+  - [Blog Posts](#blog-posts)
 
-## Definitions
+## Definitions of Digital Twins
 
 <!--lint ignore double-link-->
 - "A digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity." ([Digital Twin Consortium](https://www.digitaltwinconsortium.org))
 - "A digital twin is a digital representation of an active unique product (real device, object, machine, service, or intangible asset) or unique product-service system (a system consisting of a product and a related service) that acquires its selected characteristics, properties, conditions, and behaviours by means of models, information, and data within a single or even across multiple life cycle phases." ([Acatech](https://www.acatech.de/wp-content/uploads/2019/09/Forschungsbeirat_Themenfelder-Industrie-4.0-2.pdf))
 - "Digital representation sufficient to meet the requirements of a set of use cases." ([Industrial Digital Twin Association](https://industrialdigitaltwin.org/glossar/digitaler-zwilling))
 - "A digital twin of a system consists of a set of models of the system and a set of digital shadows, both of which are purposefully updated on a regular basis, provides a set of services to use both purposefully with respect to the original system, and can send information about the environment and control commands to the original system."([Definition by the German Cluster of Excellence, updated after the Dagstuhl seminar on MDE of DTs](https://www.se-rwth.de/essay/Digital-Twin-Definition/))
+
+
+## Reports
+
+- The National Academies of Sciences, Engineering, and Medicine (NASEM) released a report on Dec. 15, 2023. The report, [Foundational Research Gaps and Future Directions for Digital Twins](https://nap.nationalacademies.org/catalog/26894/foundational-research-gaps-and-future-directions-for-digital-twins),  is the result of a year-long consensus study. The study was sponsored by the U.S. Department of Defense, U.S. Department of Energy, National Institutes of Health, and National Science Foundation. The report sets down a cohesive definition for the term “digital twin,” urges responsible use of digital twin technology, and emphasizes the importance of establishing trust and embedding verification, validation, and uncertainty quantification in digital twin technologies from design to deployment.
 
 ## Software Solutions
 
@@ -75,7 +81,11 @@ The various digital twins serve different purposes, including analysis, control,
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'22)](https://gemoc.org/events/moddit2022.html)
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'23)](https://gemoc.org/events/moddit2023.html)
 
-## Interesting Papers
+## Research Labs
+
+- [Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin](https://oden.utexas.edu/)
+
+## Selected Papers
 
 ### 2024
 
@@ -110,3 +120,6 @@ The various digital twins serve different purposes, including analysis, control,
 - Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). Digital Twin in manufacturing: [A categorical literature review and classification](https://publik.tuwien.ac.at/files/publik_274125.pdf). IFAC-PapersOnLine, 51(11), 1016-1022: the paper defines a digital twin as a digital object that receives data from and sends data to its physical twin. [DOI](https://doi.org/10.1016/j.ifacol.2018.08.474)
 
 
+## Blog Posts
+
+- [New Center will Develop the Mathematical and Computational Foundations of Digital Twins for Complex Energy Systems](https://oden.utexas.edu/news-and-events/news/Center-Develop-Mathematical-Computational-Digital-Twins-Complex-Energy-Systems/)
