@@ -46,6 +46,12 @@ Digital twins, initially rooted in aerospace engineering, have evolved into a ve
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
 
+## Cloud Solutions
+- [Oracle IoT Digital Twin Framework](https://docs.oracle.com/en/cloud/paas/iot-cloud/iotgs/iot-digital-twin-framework.html#GUID-4A1D8D74-7755-4B16-9334-AE7EC2298278)
+- [Azure Digital Twins](https://azure.microsoft.com/en-us/products/digital-twins/)
+- [Ansys Twin Builder](https://www.ansys.com/products/digital-twin/ansys-twin-builder)
+- [GE Predix Platform - Industrial IoT Platform](https://www.ge.com/digital/iiot-platform)
+
 ## Videos
 
 - [Talks of the Engineering Digital Twins – Seminar Series](https://edt.community/past-events/)
