@@ -5,6 +5,8 @@ Welcome to our curated repository of awesome Digital Twin resources.
 
 Digital twins, initially rooted in aerospace engineering, have evolved into a versatile concept applied across diverse domains. From enhancing weather forecasting accuracy, including predicting hurricanes and storms, to revolutionizing medicine with personalized cancer treatments, digital twins are reshaping industries. They find applications in automotive design, urban infrastructure development for smart cities, and climate modeling. Both research and industry harness the power of digital twins to monitor and control cyber-physical systems in sectors spanning automotive, avionics, biology, construction, manufacturing, medicine, and beyond. The promise of digital twins lies in their ability to significantly reduce costs, time, and enhance our comprehension of complex systems they represent. These digital replicas serve varied purposes such as analysis, control, and behavior prediction, employed at different stages relative to the represented system's lifecycle, whether in the exploration of design possibilities or optimizing real-time operations.
 
+Digital twins virtually represent a physical system by learning predictive models of the system from sensor data and enable decision-making to optimize future behavior. 
+
 ## Contents
 
 - [Awesome Digital Twins](#awesome-digital-twins)
@@ -18,6 +20,7 @@ Digital twins, initially rooted in aerospace engineering, have evolved into a ve
   - [Initiatives](#initiatives)
   - [Research Events](#research-events)
   - [Research Labs](#research-labs)
+  - [Standards](#standards)
   - [Selected Papers](#selected-papers)
     - [2024](#2024)
     - [2023](#2023)
@@ -49,6 +52,7 @@ Digital twins, initially rooted in aerospace engineering, have evolved into a ve
 ## Videos
 
 - [Talks of the Engineering Digital Twins – Seminar Series](https://edt.community/past-events/)
+- [Demonstration of Three ISO 23247 Digital Twin Use Cases](https://www.youtube.com/watch?v=wbsC_qzB8us)
 
 ## Books
 
@@ -83,7 +87,13 @@ Digital twins, initially rooted in aerospace engineering, have evolved into a ve
 
 ## Research Labs
 
-- [Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin](https://oden.utexas.edu/)
+- [Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin](https://oden.utexas.edu/) (A new project establishing the [Multifaceted Mathematics Integrated Capability Center](https://www.energy.gov/science/articles/department-energy-announces-40-million-mathematical-multifaceted-integrated) on the Multifaceted Mathematics of Digital Twins (M2dt) officially launched in September 2022 and will receive $13.5M in funding over five years from [Department of Energy’s Advanced Scientific Computing Research (ASCR) program](https://www.energy.gov/science/ascr/advanced-scientific-computing-research). This is a new applied mathematics center for research on digital twin technology.)
+
+## Standards
+
+- [ISO 23247 - Digital Twin Framework for Manufacturing ](https://ap238.org/iso23247/)
+- [Asset Administration Shell ](https://reference.opcfoundation.org/I4AAS/v100/docs/4.1) 
+  -  [Asset Administration Shell (AAS) for beginners](https://community.sap.com/t5/technology-blogs-by-members/asset-administration-shell-aas-for-beginners/ba-p/13346471)
 
 ## Selected Papers
 
