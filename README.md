@@ -12,15 +12,19 @@ Digital twins virtually represent a physical system by learning predictive model
 - [Awesome Digital Twins](#awesome-digital-twins)
   - [Contents](#contents)
   - [Definitions of Digital Twins](#definitions-of-digital-twins)
+  - [Digital Twin Policy](#digital-twin-policy)
+  - [Digital Twin News](#digital-twin-news)
   - [Reports](#reports)
   - [Software Solutions](#software-solutions)
+  - [Cloud Solutions](#cloud-solutions)
   - [Videos](#videos)
   - [Books](#books)
   - [Lectures](#lectures)
   - [Initiatives](#initiatives)
   - [Research Events](#research-events)
-  - [Research Labs](#research-labs)
+  - [Research Groups](#research-groups)
   - [Standards](#standards)
+  - [Digital Twin on Github](#digital-twin-on-github)
   - [Selected Papers](#selected-papers)
     - [2024](#2024)
     - [2023](#2023)
@@ -38,6 +42,23 @@ Digital twins virtually represent a physical system by learning predictive model
 - "Digital representation sufficient to meet the requirements of a set of use cases." ([Industrial Digital Twin Association](https://industrialdigitaltwin.org/glossar/digitaler-zwilling))
 - "A digital twin of a system consists of a set of models of the system and a set of digital shadows, both of which are purposefully updated on a regular basis, provides a set of services to use both purposefully with respect to the original system, and can send information about the environment and control commands to the original system."([Definition by the German Cluster of Excellence, updated after the Dagstuhl seminar on MDE of DTs](https://www.se-rwth.de/essay/Digital-Twin-Definition/))
 
+## Digital Twin Policy
+
+- [Home - Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
+- [NISTIR 8356 (Draft), Considerations for Digital Twin Technology & Emerging Standards - CSRC](https://csrc.nist.gov/publications/detail/nistir/8356/archive/2021-04-16)
+- [Capabilities Periodic Table - Digital Twin Consortium](https://www.digitaltwinconsortium.org/initiatives/capabilities-periodic-table/)
+- [Digital Twin Periodic Table - digitalplaybook.org](https://www.digitalplaybook.org/index.php?title=Digital_Twin_Periodic_Table)
+
+## Digital Twin News
+
+- [Digital Twin Technology Market 2022 : Global Industry Analysis, Business Insights, Driving Factors, Trends, Market Size and Forecasts Up to 2028 with Dominant Sectors and Countries Data - Digital Journal](https://www.digitaljournal.com/pr/digital-twin-technology-market-2022-global-industry-analysis-business-insights-driving-factors-trends-market-size-and-forecasts-up-to-2028-with-dominant-sectors-and-countries-data)
+- [Electrical Digital Twin Software Market Innovative Strategy by 2030 - General Electric, PTC, Dassault Systèmes, IBM Corporation–Designer Women](https://www.designerwomen.co.uk/electrical-digital-twin-software-market-innovative-strategy-by-2030-general-electric-ptc-dassault-systemes-ibm-corporation/)
+- [Why you may have a thinking digital twin within a decade - BBC News](https://www.bbc.com/news/business-61742884)
+- [What Is a Digital Twin? - NVIDIA Blog](https://blogs.nvidia.com/blog/2021/12/14/what-is-a-digital-twin/)
+- [A primer on digital twin technology](https://www.emergingtechbrew.com/stories/2021/12/03/a-primer-on-digital-twin-technology)
+- [British firm's 'digital twin' accurately predicts EV battery lifespan - Autocar](https://www.autocar.co.uk/car-news/technology-news/british-firms-digital-twin-accurately-predicts-ev-battery-lifespan)
+- [Global Electrical Digital Twin Market Size to Reach $1.3 Billion By 2026](https://finance.yahoo.com/news/global-electrical-digital-twin-market-143000094.html)
+
 
 ## Reports
 
@@ -48,6 +69,11 @@ Digital twins virtually represent a physical system by learning predictive model
 - [Digital Twin Consortium Software Repository](https://github.com/digitaltwinconsortium)
 - [Eclipse Ditto](https://www.eclipse.org/ditto/intro-digitaltwins.html) - Open source framework for building build digital twins of devices connected to the internet.
 - [Asset Administration Shell - Open source software](https://industrialdigitaltwin.org/en/technology)
+- [CityEngine: Build a Digital Twin of Your City - GIS Geography](https://gisgeography.com/cityengine/)
+- [Home - CosmoTech Portal](https://portal.cosmotech.com/)
+- [IoT Digital Twin with Roblox and The Things Network](https://lupyuen.github.io/articles/roblox)
+
+
 
 ## Cloud Solutions
 - [Oracle IoT Digital Twin Framework](https://docs.oracle.com/en/cloud/paas/iot-cloud/iotgs/iot-digital-twin-framework.html#GUID-4A1D8D74-7755-4B16-9334-AE7EC2298278)
@@ -91,15 +117,35 @@ Digital twins virtually represent a physical system by learning predictive model
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'22)](https://gemoc.org/events/moddit2022.html)
 - [Workshop on Model-Driven Engineering of Digital Twins (ModDiT'23)](https://gemoc.org/events/moddit2023.html)
 
-## Research Labs
+## Research Groups
 
 - [Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin](https://oden.utexas.edu/) (A new project establishing the [Multifaceted Mathematics Integrated Capability Center](https://www.energy.gov/science/articles/department-energy-announces-40-million-mathematical-multifaceted-integrated) on the Multifaceted Mathematics of Digital Twins (M2dt) officially launched in September 2022 and will receive $13.5M in funding over five years from [Department of Energy’s Advanced Scientific Computing Research (ASCR) program](https://www.energy.gov/science/ascr/advanced-scientific-computing-research). This is a new applied mathematics center for research on digital twin technology.)
+- [Computational Modelling Group: Knowledge graphs](https://como.ceb.cam.ac.uk/research/cps/)
+- [Digital Twin - Open Access Publishing Platform - Digital Twin](https://digitaltwin1.org/) Fast publication and open peer review for all research related to digital twin technologies.
+- [Interreg - EMR Digital Twin Academy Project](https://digital-twin-academy.eu/)
+    - [Technology Sheets - EMR DTA](https://digital-twin-academy.eu/technology-sheets/)
+- [Home - Digital Twin Research](https://www.digital-twin-research.nl/)
+- [Digital Twin](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/digital-twin/digital-twin.php)
+- [AU Centre for Digital Twins](https://digit.au.dk/centre-for-digital-twins)
+- [EAISI Digital Twin Lab](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/digital-twin-lab/)
+- [Scientific machine learning and data-driven model reduction for a Predictive Digital Twin](https://kiwi.oden.utexas.edu/research/digital-twin)
+- [Digital Twinning - TNO](https://www.tno.nl/en/focus-areas/industry/roadmaps/smart-industry/digital-twinning/)
+- [Doctoral project: Digital twin developments within Volvo CE - lnu.se](https://lnu.se/en/research/searchresearch/research-projects/doctoral-project-digital-twin-developments-within-volvo-ce/)
+- [IBM Digital Twin Exchange - Overview - Indonesia - IBM](https://www.ibm.com/id-en/products/digital-twin-exchange)
 
 ## Standards
 
 - [ISO 23247 - Digital Twin Framework for Manufacturing ](https://ap238.org/iso23247/)
 - [Asset Administration Shell ](https://reference.opcfoundation.org/I4AAS/v100/docs/4.1) 
   -  [Asset Administration Shell (AAS) for beginners](https://community.sap.com/t5/technology-blogs-by-members/asset-administration-shell-aas-for-beginners/ba-p/13346471)
+  
+
+## Digital Twin on Github
+
+- [rploeg/thesisdigitaltwinsustainability: Software components used for my Thesis about Digital Twin and sustainability in manufacturing](https://github.com/rploeg/thesisdigitaltwinsustainability)
+- [OpenDigitalTwin-Dev/OpenDigitalTwin: This is an open source CAX project for digital twins.](https://github.com/OpenDigitalTwin-Dev/OpenDigitalTwin)
+- [whitelightning450/Machine-Learning-Water-Systems-Model: This machine learning workflow demonstrates a framework to function a digital twin of a systems dynamics model for urban water system seasonal water system reliability, resilience, and vulnerability analysis.](https://github.com/whitelightning450/Machine-Learning-Water-Systems-Model)
+- [PacktPublishing/Building-Industrial-Digital-Twin: Building Industrial Digital Twin - Packt Publishing](https://github.com/PacktPublishing/Building-Industrial-Digital-Twin)
 
 ## Selected Papers
 
