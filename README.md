@@ -327,6 +327,13 @@ Digital twins virtually represent a physical system by learning predictive model
 - [Controlling Virtual Object and Physical Object using BabylonJS and Arduino - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/controlling-virtual-object-and-physical-object-using-babylonjs-and-arduino/12266) [Github](https://github.com/ilhamachmada/robot-arm-babylonjs-webxr) [Virtual Engineering - Scenario and Sync Demo - YouTube](https://www.youtube.com/watch?v=z5pYWxzwzxA) Blender, Babylonjs, nodered, webxr
 
 
+
+## AI Agents & MCP Tools
+
+Tools and APIs for connecting AI agents to digital twin systems.
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Enables autonomous agents to establish verifiable identities when interacting with digital twin data pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Platforms/Engines
 
 - [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/creators/)
