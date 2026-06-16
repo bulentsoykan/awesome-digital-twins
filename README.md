@@ -333,6 +333,7 @@ Digital twins virtually represent a physical system by learning predictive model
 Tools and APIs for connecting AI agents to digital twin systems.
 
 - [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Enables autonomous agents to establish verifiable identities when interacting with digital twin data pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+- [Superhighway](https://superhighway.walls.sh/guides/manufacturing-research-agent) - Live web search API for AI agents. Build a Python agent that researches manufacturing markets, Industry 4.0/IIoT landscapes, OEE benchmarks, and supply chain trends to feed digital twin pipelines. Pay-per-call with USDC via x402 (no signup required).
 
 ## Platforms/Engines
 
