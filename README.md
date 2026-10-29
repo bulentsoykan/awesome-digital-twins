@@ -285,6 +285,7 @@ Digital twins virtually represent a physical system by learning predictive model
 
 ## Python - Simulation Connection
 
+- [AgentFEM](https://github.com/haoming-luo/agentfem) - Python finite-element workflows for mechanics and heat transfer, with command-line execution and result verification. A physics-modeling component for simulation workflows (Apache-2.0).
 - Blender Python API - 3D Free
     - [Create 3D objects and animations in Blender with Python API](https://demando.se/blogg/post/dev-generating-a-procedural-solar-system-with-blenders-python-api/)
 - Unreal Engine [Unreal Python API Documentation—Unreal Python 4.27 (Experimental) documentation](https://docs.unrealengine.com/4.27/en-US/PythonAPI/)
